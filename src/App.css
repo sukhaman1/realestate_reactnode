@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.owl-item.active .item{
+height:500px !important;
+background-size:cover;
+}
