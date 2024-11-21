@@ -15,7 +15,7 @@ export default function Property() {
       .then(function (response) {
         console.log(response);
         setPata(response.data);
-        
+    
       })
       .catch(function (error) {
       });
